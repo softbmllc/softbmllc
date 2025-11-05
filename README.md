@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://github.com/softbmllc/softbmllc/blob/main/A_GitHub_profile_README_header_banner_image_featur.png" alt="Rodrigo Opalo · DevRodri Banner" width="100%" />
+  <img src="https://github.com/softbmllc/softbmllc/blob/main/sobremi.jpg?raw=true" alt="Rodrigo Opalo" width="180" style="border-radius:50%;" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/softbmllc/softbmllc/blob/main/20251104_1011_Tech%20Logo%20Design_remix_01k97pm463ejha9xdcmb788bjx.png?raw=true" alt="DevRodri Logo" width="300" />
 </p>
 
 ---
