@@ -11,7 +11,7 @@
 
 ### 🧠 About Me  
 Full-Stack Developer with a **product-driven mindset**, integrating design, UX, and business logic to build scalable, purposeful solutions.  
-I work where **technology, business, and user experience intersect** — combining frontend craft, backend architecture, and cloud automation.  
+I work where **technology, business, and user experience intersect** - combining frontend craft, backend architecture, and cloud automation.  
 
 💡 **Core strengths:**  
 - React, Next.js, TailwindCSS, Node.js, Firebase, Docker  
